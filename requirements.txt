@@ -1,7 +1,12 @@
 numpy==1.24.3
 langchain==0.1.0
-langchain-openai==0.0.5
 python-dotenv==1.0.0
 jupyter==1.0.0
 matplotlib==3.7.1
 scikit-learn==1.3.0
+langchain_community
+langchain_experimental  
+langchain-openai
+langchainhub
+chromadb
+beautifulsoup4
